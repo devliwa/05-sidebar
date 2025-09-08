@@ -1,4 +1,4 @@
-# 05-Sidebar Project
+# 05 Sidebar Project
 
 A simple JavaScript project that adds a collapsible sidebar to a webpage.  
 This project helps practice DOM manipulation, event listeners, and creating interactive UI components.
